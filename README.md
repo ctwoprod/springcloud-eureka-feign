@@ -34,3 +34,9 @@ default built in feign
 run `java -jar server/target/hello-server-0.0.1-SNAPSHOT.jar --server.port=7112`
 
 Go back to [http://localhost:7211](http://localhost:7211) and you should see both ports `7111` and `7112` in the output after a minute or two as you keep refreshing.
+
+
+
+## Referensi
+
+https://github.com/spring-cloud-samples/feign-eureka
